@@ -117,7 +117,7 @@ DreamWeaverAI/
 
 ⚙️ 6. Installation
 1️⃣ Clone the repo:
-git clone https://github.com/YOUR_USERNAME/DreamWeaverAI.git
+git clone https://github.com/vijay84-projects/DreamWeaverAI.git
 cd DreamWeaverAI
 
 2️⃣ Create a virtual environment:
